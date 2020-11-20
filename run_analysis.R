@@ -1,4 +1,4 @@
-# Esma - A
+# Esma-A
 # Peer-graded Assignment: Getting and Cleaning Data Course Project.
 
 ## Load packages
