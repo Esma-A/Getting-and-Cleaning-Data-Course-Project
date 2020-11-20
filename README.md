@@ -14,7 +14,7 @@ In this repository are the required files for this assignment:
   
  ii) Extracts only the measurements on the mean and standard deviation for each measurement.
  
- iii) Uses descriptive activity names to name the activities in the data set
+ iii) Uses descriptive activity names to name the activities in the data set.
  
  iv) Appropriately labels the data set with descriptive variable names.
  
